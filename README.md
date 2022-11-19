@@ -1,2 +1,2 @@
-# Plantilla-PRO-C84-SPECTAGRAM-STAGE-4
-PRO-C84: SPECTAGRAM STAGE 4
+# spectagram-etapa-4
+Proyecto c84
